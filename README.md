@@ -1,0 +1,2 @@
+# InformasiGempa
+Aplikasi Informasi Gempa
